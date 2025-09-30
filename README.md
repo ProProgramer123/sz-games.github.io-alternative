@@ -1,3 +1,5 @@
+Site: https://sz-games-github-io-alternative.onrender.com/
+
 <p align="center">
  
   <img src="https://sz-games.github.io/G-Google.png" width="150px" height="150px">
